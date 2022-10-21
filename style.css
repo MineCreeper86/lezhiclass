@@ -14,3 +14,7 @@ body {
     font-family: '等线','仿宋';
     text-shadow: 1px 1px 1px gray;
 }
+
+a {
+    text-decoration: none;
+}
