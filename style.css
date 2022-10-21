@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    background-image: url(https://bing.biturl.top/?resolution=3840&format=image&index=0&mkt=zh-CN);
+    background-size: 120%;
+}
+
+.bgtext {
+    position: absolute;
+    bottom: 0px;
+    font-size: 4px;
+}
