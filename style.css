@@ -7,6 +7,7 @@ body {
 .bgtext {
     position: absolute;
     bottom: 0px;
-    font-size: 4px;
+    font-size: 8px;
     text-align: center;
+    font-family: '等线' '仿宋';
 }
